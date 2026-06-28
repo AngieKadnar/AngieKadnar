@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hi there, I'm Angie
+
+I love learning new things and enjoy tackling challenging problems. Refactoring is probably my favorite part of software engineering—taking something complex, simplifying it, and making it easier for the next person (or future me) to work with.
+
+I appreciate clean, consistent code and believe that the best software evolves through continuous improvement rather than big rewrites.
+
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelika-kadnar/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angie_kadnar/)
 
 <!--
 **AngieKadnar/AngieKadnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

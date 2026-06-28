@@ -1,8 +1,12 @@
 # 👋 Hi there, I'm Angie
 
+I'm a C#/.NET software engineer based in Vienna.
+
 I love learning new things and enjoy tackling challenging problems. Refactoring is probably my favorite part of software engineering—taking something complex, simplifying it, and making it easier for the next person (or future me) to work with.
 
 I appreciate clean, consistent code and believe that the best software evolves through continuous improvement rather than big rewrites.
+
+Besides writing code, I'm a curious and creative person who enjoys exploring new hobbies, meeting new people, and never taking life too seriously.
 
 
 ## 📫 Connect With Me
